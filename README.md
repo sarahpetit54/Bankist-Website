@@ -3,7 +3,9 @@ Marketing website for fictional bank
 
 <h1>Description</h1>
 
-Part of my Javascript course: advanced DOM manipulation and events (types of events, handlers, propagation, delegation, DOM traversing, lifecycle...)
+Part of my Javascript course: advanced DOM manipulation and events (types of events, handlers, propagation, delegation, DOM traversing, lifecycle...).
+
+See demo here: https://splendid-kheer-3b62c3.netlify.app/
 
 <h1>UI Components</h1>
 

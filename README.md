@@ -5,7 +5,7 @@ Marketing website for fictional bank
 
 Part of my Javascript course: advanced DOM manipulation and events (types of events, handlers, propagation, delegation, DOM traversing, lifecycle...).
 
-See demo here: https://splendid-kheer-3b62c3.netlify.app/
+See demo here: https://bankist-website-by-sarah.netlify.app/
 
 <h1>UI Components</h1>
 
